@@ -1,11 +1,4 @@
-h1{
-    text-align: center;
-    
-}
 
-h2{
-    text-align: center;
-}
 
 
 nav,.work-section, footer{
@@ -57,7 +50,41 @@ body {
     font-weight: bold;
 }
 
-.small {
-    height: 180px;
-    width:  250px;
+
+
+header .hero title .title{
+    font-family: 'Oswald', sans-serif;
+    font-size: 72px;
+    font-weight: 200;
+    width: 187px;
+    height: 107px;
+    color: #FFFFFF;
+}
+
+.letra {
+    font-family: "Oswald";
+    font-weight: bold;
+    height: 60px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.desc-section {
+    font-weight: 1280px;
+    height: 798px;
+    
+}
+
+.parrafo1 {
+    font-weight: 482px;
+    height: 483px;
+    
+}
+
+
+.parrafo2 {
+    font-weight: 482px;
+    height: 483px;
 }

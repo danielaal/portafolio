@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    
+}
+
+h2{
+    text-align: center;
+}
+
+
+nav,.work-section, footer{
+    background-color: #660066;
+}
+
+
+.hero-section {
+    background-image: url("../img/bg_hero.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 737px;
+}
+
+
+
+
+
+.navbar-brand h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700px;
+    
+}
+
+
+
+h3 {
+    text-align: center;
+}
+
+.section {
+    text-align: center;
+}
+
+.form-section {
+    text-align: center;
+}
+
+body {
+    font-family: "Open Sans";
+}
+
+.purple {
+    color: #660066;
+}
+
+.experiencia {
+    font-family: "Oswald";
+    font-weight: bold;
+}
+
+.small {
+    height: 180px;
+    width:  250px;
+}
